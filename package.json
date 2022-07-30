@@ -2,7 +2,7 @@
   "name": "@bdsx/Ban-command-main",
   "version": "1.0.0",
   "description": "",
-  "main": "yeondu.js",
+  "main": "index.js",
   "license": "MIT",
   "bdsxPlugin": true,
   "scripts": {
